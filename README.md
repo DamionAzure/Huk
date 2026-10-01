@@ -37,7 +37,7 @@ The registry of what is hooked lives in `~/.huk/config.json`, with a rotating ba
 Requires a recent Rust toolchain (the crate uses the 2024 edition, so Rust 1.85 or newer).
 
 ```powershell
-git clone [<your-repo-url>](https://github.com/DamionAzure/Huk.git) huk
+git clone https://github.com/DamionAzure/Huk.git huk
 cd huk
 cargo build --release
 ```
